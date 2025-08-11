@@ -2,15 +2,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
-|  |
-| ------- |
-| [0783-search-in-a-binary-search-tree](https://github.com/adarsh-priydarshi-5646/Daily-Practice-DSA-Ap/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/adarsh-priydarshi-5646/Daily-Practice-DSA-Ap/tree/master/0783-search-in-a-binary-search-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0783-search-in-a-binary-search-tree](https://github.com/adarsh-priydarshi-5646/Daily-Practice-DSA-Ap/tree/master/0783-search-in-a-binary-search-tree) |
-<!---LeetCode Topics End-->
+<!---LeetCode Topics End-->__

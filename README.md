@@ -39,10 +39,12 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Linked List
 |  |
@@ -55,9 +57,11 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->

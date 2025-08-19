@@ -16,7 +16,6 @@ class Solution:
         elif root.val < key:
             root.right = self.deleteNode(root.right, key)
         else:
-            # Node to be deleted found
             # Case 1: No child
             if root.left is None and root.right is None:
                 return None

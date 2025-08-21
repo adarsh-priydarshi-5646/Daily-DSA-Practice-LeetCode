@@ -99,4 +99,12 @@ Happy Coding! 🚀
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

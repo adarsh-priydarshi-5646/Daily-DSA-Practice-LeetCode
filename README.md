@@ -62,6 +62,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Happy Coding! 🚀
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -107,4 +109,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0039-combination-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

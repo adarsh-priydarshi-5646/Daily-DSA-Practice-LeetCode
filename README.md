@@ -109,8 +109,17 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

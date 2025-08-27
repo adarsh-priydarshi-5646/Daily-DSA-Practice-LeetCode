@@ -92,6 +92,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2487-optimal-partition-of-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,8 +119,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0131-palindrome-partitioning) |
+| [2487-optimal-partition-of-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0131-palindrome-partitioning) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->

@@ -111,6 +111,7 @@ Happy Coding! 🚀
 | ------- |
 | [0039-combination-sum](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0800-letter-case-permutation](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0800-letter-case-permutation) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0800-letter-case-permutation](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0800-letter-case-permutation) |
 | [2487-optimal-partition-of-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Dynamic Programming
 |  |
@@ -128,4 +130,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/2487-optimal-partition-of-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->

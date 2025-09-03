@@ -1,51 +1,39 @@
+from typing import List
+
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         result = []
-        board = []
-        for _ in range(n):
-            row = []
-            for _ in range(n):
-                row.append(".")
-            board.append(row)
+        board = [["."] * n for _ in range(n)]
 
-        def is_safe(row, col):
-            # Check same column
-            for i in range(row):
-                if board[i][col] == "Q":
-                    return False
-
-            # Check left diagonal
-            i, j = row - 1, col - 1
-            while i >= 0 and j >= 0:
-                if board[i][j] == "Q":
-                    return False
-                i -= 1
-                j -= 1
-
-            # Check right diagonal
-            i, j = row - 1, col + 1
-            while i >= 0 and j < n:
-                if board[i][j] == "Q":
-                    return False
-                i -= 1
-                j += 1
-
-            return True
+        # Trackers
+        column = [0] * n              # Column occupied ya nahi
+        leftDig = [0] * (2 * n - 1)   # Left diagonal (n-1 + col - row)
+        rightDig = [0] * (2 * n - 1)  # Right diagonal (row + col)
 
         def backtrack(row):
-            # Base case
+            # Base case -> agar saare rows fill ho gaye
             if row == n:
                 solution = []
                 for r in board:
-                    solution.append("".join(r))
+                    line = ""
+                    for c in r:
+                        line += c
+                    solution.append(line)
                 result.append(solution)
                 return
 
             for col in range(n):
-                if is_safe(row, col):
+                if column[col] == 0 and leftDig[n - 1 + col - row] == 0 and rightDig[row + col] == 0:
                     board[row][col] = "Q"
+                    column[col] = 1
+                    leftDig[n - 1 + col - row] = 1
+                    rightDig[row + col] = 1
                     backtrack(row + 1)
-                    board[row][col] = "."  # Backtrack
+                    # Backtrack
+                    board[row][col] = "."
+                    column[col] = 0
+                    leftDig[n - 1 + col - row] = 0
+                    rightDig[row + col] = 0
 
         backtrack(0)
         return result

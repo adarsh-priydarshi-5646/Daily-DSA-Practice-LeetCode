@@ -113,6 +113,7 @@ This project is licensed under the MIT License.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0198-house-robber) |
 ## String
@@ -153,4 +154,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

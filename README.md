@@ -162,4 +162,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

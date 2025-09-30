@@ -114,6 +114,7 @@ This project is licensed under the MIT License.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -159,6 +160,7 @@ This project is licensed under the MIT License.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -175,4 +177,8 @@ This project is licensed under the MIT License.
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

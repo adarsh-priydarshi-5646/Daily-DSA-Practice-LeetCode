@@ -1,17 +1,22 @@
 class Solution:
-    def uniquePaths(self, m: int, n: int) -> int:
-        memo = {}
-        
-        def dfs(i, j):
-            if i == 0 or j == 0:
-                return 1
+    def helper(self,i,j,m,n,memo):
+        if i >= m or j >= n:
+            return 0
 
-            if (i, j) in memo:
-                return memo[(i, j)]
-            
-            memo[(i, j)] = dfs(i-1, j) + dfs(i, j-1)
+        if i == m-1 and j == n-1:
+            return 1
+        if (i, j) in memo:
             return memo[(i, j)]
         
-        return dfs(m-1, n-1)
+        down = self.helper(i+1,j,m,n,memo)
+        right = self.helper(i,j+1,m,n,memo)
+        
+        memo[(i, j)] = down + right
+        return memo[(i, j)]
+
+    def uniquePaths(self, m: int, n: int) -> int:
+        memo = {}
+        return self.helper(0,0,m,n,memo)
+
 
         

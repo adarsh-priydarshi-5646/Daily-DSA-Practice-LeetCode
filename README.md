@@ -113,6 +113,7 @@ This project is licensed under the MIT License.
 | [0189-rotate-array](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -164,6 +165,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -200,4 +202,8 @@ This project is licensed under the MIT License.
 | ------- |
 | [0189-rotate-array](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

@@ -115,6 +115,7 @@ This project is licensed under the MIT License.
 | [0213-house-robber-ii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +125,7 @@ This project is licensed under the MIT License.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1250-longest-common-subsequence) |
 ## String
@@ -206,4 +208,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

@@ -133,6 +133,7 @@ This project is licensed under the MIT License.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0257-binary-tree-paths) |
 | [1250-longest-common-subsequence](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -169,6 +170,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -218,4 +220,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

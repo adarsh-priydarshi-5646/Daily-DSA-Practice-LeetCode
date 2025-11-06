@@ -1,13 +1,18 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        first_buy = float("inf")
-        first_sell = 0
-        secon_buy = float("inf")
-        second_sell = 0 
-        for price in prices:
-            first_buy = min(first_buy,price)
-            first_sell = max(first_sell,price - first_buy)
-            secon_buy = min(secon_buy,price - first_sell)
-            second_sell = max(second_sell,price - secon_buy)
+        k = 2
+        n = len(prices)
+        if k>=n//2:
+            total_profit = 0
+            for i in range(1,n):
+                if prices[i]>prices[i-1]:
+                    total_profit += prices[i] - prices[i-1]
+            return total_profit
 
-        return second_sell 
+        buy = [float("inf")] * (k+1)
+        profit = [0] * (k+1)
+        for price in prices:
+            for t in range(1,k+1):
+                buy[t] = min(buy[t],price-profit[t-1])
+                profit[t] = max(profit[t],price-buy[t])
+        return profit[k]

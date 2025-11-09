@@ -136,6 +136,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0257-binary-tree-paths) |
 | [1250-longest-common-subsequence](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -232,4 +233,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -232,6 +232,7 @@ This project is licensed under the MIT License.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
@@ -242,4 +243,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0155-min-stack) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

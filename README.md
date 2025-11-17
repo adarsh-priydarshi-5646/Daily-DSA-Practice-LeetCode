@@ -118,6 +118,7 @@ This project is licensed under the MIT License.
 | [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [1073-number-of-enclaves](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1073-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +158,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0079-word-search](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0257-binary-tree-paths) |
+| [1073-number-of-enclaves](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,6 +171,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0079-word-search) |
+| [1073-number-of-enclaves](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,4 +250,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1073-number-of-enclaves) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->

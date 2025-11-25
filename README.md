@@ -139,6 +139,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0257-binary-tree-paths) |
@@ -215,6 +216,7 @@ This project is licensed under the MIT License.
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0189-rotate-array) |
@@ -274,4 +276,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

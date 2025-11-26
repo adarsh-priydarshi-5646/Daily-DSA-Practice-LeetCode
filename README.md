@@ -156,6 +156,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -280,4 +282,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->

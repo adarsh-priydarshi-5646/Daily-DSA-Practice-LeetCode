@@ -18,4 +18,3 @@ class Solution:
             curr_diff = arr[i] - arr[i-1]
             min_diff = min(min_diff,curr_diff)
         return min_diff
-        

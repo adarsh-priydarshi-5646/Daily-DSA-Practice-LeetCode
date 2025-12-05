@@ -23,4 +23,3 @@ class Solution:
             result.append(first_index)
             result.append(second_index)
             return result
-            

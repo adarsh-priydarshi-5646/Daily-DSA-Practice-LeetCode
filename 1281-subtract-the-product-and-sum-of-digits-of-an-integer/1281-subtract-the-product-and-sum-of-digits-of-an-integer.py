@@ -1,13 +1,13 @@
 class Solution:
     def subtractProductAndSum(self, n: int) -> int:
-        r = 0
+        s = 0
         a = 1
-        c = 0
         while n > 0:
-            r += n % 10
-            a *= n % 10
+            r = n % 10
+            s += r
+            a *= r
             n = n // 10
         # print(r)
         # print(a)
-        return a - r
+        return a - s
         

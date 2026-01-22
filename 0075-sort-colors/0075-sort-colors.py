@@ -18,3 +18,5 @@ class Solution:
                 nums[j], nums[k] = nums[k], nums[j]
                 k -= 1
         return nums
+
+        

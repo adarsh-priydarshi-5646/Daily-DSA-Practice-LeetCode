@@ -147,6 +147,7 @@ Contributions are welcome!
 | [0151-reverse-words-in-a-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0257-binary-tree-paths) |
 | [1250-longest-common-subsequence](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1796-second-largest-digit-in-a-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -199,6 +200,7 @@ Contributions are welcome!
 | [0169-majority-element](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
+| [1796-second-largest-digit-in-a-string](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |

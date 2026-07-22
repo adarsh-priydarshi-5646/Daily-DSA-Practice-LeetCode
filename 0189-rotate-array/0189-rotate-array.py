@@ -3,8 +3,9 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        for i in range(k):
+        while k > 0:
             last = nums.pop()
             nums.insert(0,last)
+            k-=1
         return nums
         

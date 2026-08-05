@@ -206,6 +206,7 @@ Contributions are welcome!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0062-unique-paths) |

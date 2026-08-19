@@ -3,12 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        curr = 0
+        temp = []
         for i in range(len(nums)):
             if nums[i] != 0:
-                nums[curr],nums[i] = nums[i],nums[curr]
-                curr += 1
-        return curr
-
+                temp.append(nums[i])
+        for i in range(len(temp)):
+            nums[i] = temp[i]
+        for i in range(len(temp), len(nums)):
+            nums[i] = 0
+        return nums
         
-  

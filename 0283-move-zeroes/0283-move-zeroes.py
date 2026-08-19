@@ -3,12 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        j = 0
-        for i in range(1, len(nums)):
-            if nums[j] == 0 and nums[i] != 0:
+        # Pointer for the position of the next non-zero element
+        j = 0 
+        
+        # Iterate through the array with pointer i
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                # Swap elements
                 nums[j], nums[i] = nums[i], nums[j]
-                j += 1
-            if nums[j] != 0:
+                # Move the non-zero position pointer forward
                 j += 1
         return nums
 

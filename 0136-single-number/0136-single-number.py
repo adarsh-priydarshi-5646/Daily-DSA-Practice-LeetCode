@@ -1,18 +1,20 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        # n = len(nums)
-        # maxi = max(nums)
-        # hash_nums = [0] * (maxi + 1)
-        # for num in nums:
-        #     hash_nums[num] += 1
-        # for num in nums:
-        #     if hash_nums[num] == 1:
-        #         return num
-        # return -1
-        result = 0
+        hash_nums = {} 
         for num in nums:
-            result ^= num  # This cancels out all duplicate pairs
-        return result
+            if num in hash_nums:
+                hash_nums[num] += 1
+            else:
+                hash_nums[num] = 1
+        for num in nums:
+            if hash_nums[num] == 1:
+                return num    
+        return -1
+
+        # result = 0
+        # for num in nums:
+        #     result ^= num  # This cancels out all duplicate pairs
+        # return result
 
         # for i in range(len(nums)):
         #     num = nums[i]

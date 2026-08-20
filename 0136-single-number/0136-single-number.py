@@ -1,14 +1,14 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         hash_nums = {} 
-        for num in nums:
-            if num in hash_nums:
-                hash_nums[num] += 1
+        for i in nums:
+            if i in hash_nums:
+                hash_nums[i] += 1
             else:
-                hash_nums[num] = 1
-        for num in nums:
-            if hash_nums[num] == 1:
-                return num    
+                hash_nums[i] = 1
+        for i in nums:
+            if hash_nums[i] == 1:
+                return i    
         return -1
 
         # result = 0

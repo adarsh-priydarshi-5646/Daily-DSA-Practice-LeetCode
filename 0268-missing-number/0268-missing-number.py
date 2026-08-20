@@ -1,13 +1,19 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         n = len(nums)
-        #optimal
-        summ = n*(n+1)//2
-        s2 = 0
+        xor1 = 0
+        xor2 = 0
         for i in range(n):
-            s2 += nums[i]
-        return summ - s2
+            xor2 = xor2 ^ nums[i]
+            xor1 = xor1 ^ (i + 1)
+        return xor1 ^ xor2
 
+        #optimal
+        # summ = n*(n+1)//2
+        # s2 = 0
+        # for i in range(n):
+        #     s2 += nums[i]
+        # return summ - s2
 
         #better
         # arr = [0] * (n + 1)

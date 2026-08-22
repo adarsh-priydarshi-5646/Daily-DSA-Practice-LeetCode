@@ -4,7 +4,7 @@ class Solution:
         for num in nums:
             result ^= num  # This cancels out all duplicate pairs
         return result
-        
+
         # hash_nums = {} 
         # for i in nums:
         #     if i in hash_nums:
@@ -15,6 +15,7 @@ class Solution:
         #     if hash_nums[i] == 1:
         #         return i    
         # return -1
+
 
         # for i in range(len(nums)):
         #     num = nums[i]

@@ -1,6 +1,6 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        #better
+        #Moore's Voting Algorithm -> optimal
         ele = nums[0]
         count = 1
         for i in range(1, len(nums)):
@@ -13,10 +13,6 @@ class Solution:
                 count -= 1
         return ele
         
-
-
-
-
         #better
         # hash_map = {}
         # for i in range(len(nums)):

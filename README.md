@@ -365,4 +365,12 @@ Contributions are welcome!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

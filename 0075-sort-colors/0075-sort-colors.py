@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        #Dutch national flag algo -> optimized
         low = 0
         mid = 0
         high = len(nums) - 1
@@ -13,12 +14,12 @@ class Solution:
                 mid += 1
             elif nums[mid] == 1:
                 mid += 1
-            elif nums[mid] == 2:
+            else:
                 nums[mid], nums[high] = nums[high], nums[mid]
                 high -= 1
         return nums
 
-        #brute
+        #brute force
         # cnt0 = 0
         # cnt1 = 0
         # cnt2 = 0

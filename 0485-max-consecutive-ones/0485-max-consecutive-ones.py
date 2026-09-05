@@ -5,8 +5,7 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] == 1:
                 cnt += 1
-                if cnt > maxi:
-                    maxi = cnt
+                maxi = max(maxi, cnt)
             else:
                 cnt = 0
         return maxi

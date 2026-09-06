@@ -1,28 +1,26 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        result = 0
-        for num in nums:
-            result ^= num  # This cancels out all duplicate pairs
-        return result
-
-        # hash_nums = {} 
-        # for i in nums:
-        #     if i in hash_nums:
-        #         hash_nums[i] += 1
-        #     else:
-        #         hash_nums[i] = 1
-        # for i in nums:
-        #     if hash_nums[i] == 1:
-        #         return i    
-        # return -1
-
-
+        hash_map = {}
+        for i in nums:
+            if i in hash_map:
+                hash_map[i] += 1
+            else:
+                hash_map[i] = 1
+        for i in hash_map:
+            if hash_map[i] == 1:
+                return i
+        return -1
+        
+        
+        # num = 0
         # for i in range(len(nums)):
-        #     num = nums[i]
         #     cnt = 0
         #     for j in range(len(nums)):
-        #         if nums[j] == num:
+        #         if nums[i] == nums[j]:
         #             cnt += 1
         #     if cnt == 1:
-        #         return num
+        #         num = nums[i]
+        # return num
+
+
         

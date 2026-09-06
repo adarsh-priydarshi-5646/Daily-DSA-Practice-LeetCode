@@ -11,3 +11,12 @@ class Solution:
             prefix_sums[current_sum] = prefix_sums.get(current_sum, 0) + 1
         return count
 
+        # n = len(nums) 
+        # cnt = 0
+        # for i in range(n):
+        #     currentSum = 0
+        #     for j in range(i, n):
+        #         currentSum += nums[j]
+        #         if currentSum == k:
+        #             cnt += 1
+        # return cnt

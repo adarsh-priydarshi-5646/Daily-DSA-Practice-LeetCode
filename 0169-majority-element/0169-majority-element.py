@@ -13,6 +13,7 @@ class Solution:
                 count -= 1
         return ele
         
+        
         #better
         # hash_map = {}
         # for i in range(len(nums)):
@@ -23,6 +24,7 @@ class Solution:
         # for num in hash_map:
         #     if hash_map[num] > len(nums)//2:
         #         return num
+
 
         #brute force
         # for i in range(len(nums)):

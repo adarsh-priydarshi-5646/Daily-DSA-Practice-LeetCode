@@ -127,6 +127,7 @@ Contributions are welcome!
 | [0213-house-robber-ii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -225,6 +226,7 @@ Contributions are welcome!
 | [0169-majority-element](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -298,6 +300,7 @@ Contributions are welcome!
 | [0169-majority-element](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -375,6 +378,7 @@ Contributions are welcome!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Simulation
 |  |
@@ -403,6 +407,7 @@ Contributions are welcome!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0229-majority-element-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |

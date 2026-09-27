@@ -1,13 +1,13 @@
 class Solution:
     def reversePairs(self, nums: list[int]) -> int:
         def merge(arr, low, mid, high):
-            cnt = 0
             # Count reverse pairs: arr[i] > 2 * arr[j]
-            j = mid + 1
+            cnt = 0
+            right = mid + 1
             for i in range(low, mid + 1):
-                while j <= high and arr[i] > 2 * arr[j]:
-                    j += 1
-                cnt += (j - (mid + 1))
+                while right <= high and arr[i] > 2 * arr[right]:
+                    right += 1
+                cnt += (right - (mid + 1))
             
             #merge sort
             temp = []

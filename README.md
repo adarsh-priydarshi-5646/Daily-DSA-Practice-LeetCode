@@ -135,6 +135,7 @@ Contributions are welcome!
 | [0493-reverse-pairs](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0704-binary-search) |
 | [1073-number-of-enclaves](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1073-number-of-enclaves) |
 | [1748-sum-of-unique-elements](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -311,6 +312,7 @@ Contributions are welcome!
 | [0268-missing-number](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |

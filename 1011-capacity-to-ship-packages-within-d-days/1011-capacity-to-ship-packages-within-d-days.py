@@ -2,12 +2,12 @@ class Solution:
     def findDays(self, weights, capacity):
         days = 1
         load = 0
-        for x in weights:
-            if x + load <= capacity:
-                load += x
+        for weight in weights:
+            if weight + load <= capacity:
+                load += weight
             else:
                 days += 1
-                load = x
+                load = weight
         return days
 
     def shipWithinDays(self, weights: list[int], days: int) -> int:

@@ -151,6 +151,7 @@ Contributions are welcome!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -438,6 +439,7 @@ Contributions are welcome!
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarsh-priydarshi-5646/Daily-DSA-Practice-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
